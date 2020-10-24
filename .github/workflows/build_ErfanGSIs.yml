@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.0.1.0.QDTCNXM/miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.QFGCNXM/miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shijiazhuang
 
